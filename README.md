@@ -106,7 +106,7 @@ CREATE TABLE crypto_prices (
 
 -Clone the repository:
 
-git clone https://github.com/JYOTIRADITYA-web-bit/Crypto-Analytics
+git clone https://github.com/atharvakhachane642003-dotcom/Crypto-Analysis
 
 cd crypto-analytics
 
